@@ -1,9 +1,5 @@
-* <a href="https://rainerlueers.github.io/sophies-yard/">Startseite</a>
-* <a href="https://rainerlueers.github.io/sophies-yard/unsere_hunde.html">Unsere Hunde</a>
-* <a href="https://rainerlueers.github.io/sophies-yard/der_gemuesegarten.html">Der Gemüsegarten</a>
-* <a href="https://rainerlueers.github.io/sophies-yard/rainers_software_portfolio.html">Rainer's Software Portfolio</a>
-* <a href="https://rainerlueers.github.io/flimmerkiste/">Rainer's Flimmerkiste</a>
-* <a href="https://rainerlueers.github.io/sophies-yard/maler_klecksel.html">Rainer's Kleckselei</a>
+* <a href="https://rainerlueers.github.io/sophies-yard-chronicle/">Startseite</a>
+* <a href="https://rainerlueers.github.io/sophies-yard-chronicle/rainers_software_portfolio.html">Rainer's Software Portfolio</a>
  
 ---
 title: Rainer's Software Portfolio
