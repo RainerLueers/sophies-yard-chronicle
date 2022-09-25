@@ -1,4 +1,4 @@
-* <a href="https://rainerlueers.github.io/sophies-yard/">Startseite</a>
+* <a href="https://rainerlueers.github.io/sophies-yard-chronicle/">Startseite</a>
 
 ---
 title: Sophies Yard Chronicle
