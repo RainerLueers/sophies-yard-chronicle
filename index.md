@@ -1,6 +1,6 @@
 * <a href="https://rainerlueers.github.io/sophies-yard-chronicle/">Startseite</a>
 * <a href="https://rainerlueers.github.io/sophies-yard-chronicle/rainers_software_portfolio.html">Rainer's Software Portfolio</a>
-* <a href="https://rainerlueers.github.io/sophies-yard-chronicle/rainers_gitarrenschule.html">Rainer's Gitarrenschule</a>
+* <a href="https://rainerlueers.github.io/sophies-yard-chronicle/Gitarrenschule">Rainer's Gitarrenschule</a>
 
 ---
 title: Sophies Yard Chronicle
