@@ -11,9 +11,9 @@ title: Rainer's Gitarrenschule
 Hier Bilder einfügen---
 
 
-## Songs zum lernen...
+## Sammlung von Songs mit Übungsmaterial...
 
-* <a href="https://rainerlueers.github.io/Gitarrenschule/Gary_Moore_Parisienne_Walkways.md" target="_blank">Gary Moore - Parisienne Walkways</a>
+* <a href="https://rainerlueers.github.io/Gitarrenschule/" target="_blank">Songs zum lernen</a>
 
 
 
