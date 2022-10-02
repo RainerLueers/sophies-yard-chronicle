@@ -1,5 +1,4 @@
 * <a href="https://rainerlueers.github.io/sophies-yard-chronicle/">Startseite</a>
-* <a href="https://rainerlueers.github.io/sophies-yard-chronicle/rainers_software_portfolio.html">Rainer's Software Portfolio</a>
  
 ---
 title: Rainer's Software Portfolio
