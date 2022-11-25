@@ -1,6 +1,7 @@
 * <a href="https://rainerlueers.github.io/sophies-yard-chronicle/">Startseite</a>
 * <a href="https://rainerlueers.github.io/sophies-yard-chronicle/rainers_software_portfolio.html">Rainer's Software Portfolio</a>
 * <a href="https://rainerlueers.github.io/Gitarrenschule/" target="_blank">Rainer's Gitarrenschule</a>
+* <a href="https://club.radio/#player_music" target="_blank">club.radio - Tom Glagow</a>
 
 ---
 title: Sophies Yard Chronicle
