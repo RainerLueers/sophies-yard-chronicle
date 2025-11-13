@@ -12,6 +12,7 @@ title: Sophies Yard Chronicle
 
 ![](JPG_Sophienhof Aussen_102.JPG)
 
+
 Hallo und herzlich willkommen auf unserer Website.  
 Wir, dass sind meine Frau Bernadette, ich und unsere beiden
 Labradorhündinnen Laika und Lilly.  
