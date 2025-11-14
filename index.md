@@ -13,14 +13,15 @@ title: Sophies Yard Chronicle
 
 
 Hallo und herzlich willkommen auf unserer Website.  
-Wir, dass sind meine Frau Bernadette, ich und unsere beiden
-Labradorhündinnen Laika und Lilly.  
+Wir, dass sind meine Frau Bernadette, ich und unsere  
+beiden Labradorhündinnen Laika und Lilly.  
 
 ![](Lilly_Laika_164.JPG)
 
-Im Frühjahr 2015 haben Bernadette und ich den ehemaligen Reimer’s Hof in Sophienhof  
-(Mecklenburg Vorpommern) gekauft. Seither sind wir kontinuierlich dabei, den
-bereits 200 Jahre alten Bauernhof wieder in Stand zu setzen.  
+Im Frühjahr 2015 haben Bernadette und ich den ehemaligen Reimer’s  
+Hof in Sophienhof (Mecklenburg Vorpommern) gekauft.  
+Seither sind wir kontinuierlich dabei, den bereits 200 Jahre alten  
+Bauernhof wieder in Stand zu setzen.  
 
 <img src="Bernadette_2010.JPG" alt="Bernadette 2010">  
 Bernadette 2010    
