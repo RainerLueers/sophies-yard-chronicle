@@ -22,10 +22,10 @@ Im Frühjahr 2015 haben Bernadette und ich den ehemaligen Reimer’s Hof in Soph
 (Mecklenburg Vorpommern) gekauft. Seither sind wir kontinuierlich dabei, den
 bereits 200 Jahre alten Bauernhof wieder in Stand zu setzen.  
 
-<img src="Bernadette_2010.JPG" alt="Bernadette 2010" width="528" height="704">  
+<img src="Bernadette_2010.JPG" alt="Bernadette 2010">  
 Bernadette 2010    
 
-<img src="Rainer_2010.JPG" alt="Rainer 2010" width="528" height="704">  
+<img src="Rainer_2010.JPG" alt="Rainer 2010">  
 Rainer 2010
 
 <a href="#">Top</a> 
